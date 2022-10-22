@@ -2,4 +2,7 @@
 many useful links 
 //  https://leetcode.com/problems/find-array-given-subset-sums/discuss/1437739/Recursive-Disambiguation   (leertcode subset problem)
 
+(many sample questioon on subset)
+//  https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)
+
 
