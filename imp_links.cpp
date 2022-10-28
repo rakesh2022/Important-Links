@@ -5,4 +5,6 @@ many useful links
 (many sample questioon on subset)
 //  https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)
 
-
+// unsolved lovebabbar sheet ques
+  //Array
+  https://github.com/viren-sureja/Love-Babbar-450/blob/master/01_array/20_rearrange_pos_neg_in_alter.cpp
